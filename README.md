@@ -6,3 +6,6 @@ I created table as per the tasks requirement with relationships between 3 sets o
 Then I loaded the data which I fetched from API to the tables
 Then I worked on the SQL queries as per the questions assigned
 Then I built an app to showcase my project using streamlit.
+
+
+I used ipynb format to do this project, so that it was easierfor me to see the results after applying each steps. since we are working with large set of data I thought it would be better working in ipynb file format.
